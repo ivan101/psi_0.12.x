@@ -254,11 +254,6 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="97"/>
-        <source>Plugins Writer and Patcher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/aboutdlg.cpp" line="100"/>
         <source>Patcher and ArchLinux Packager</source>
         <translation>Патчер и сборщик под ArchLinux</translation>
     </message>
@@ -421,11 +416,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <location filename="../src/accountmodify.ui" line="13"/>
         <source>Account Properties</source>
         <translation>Настройки аккаунта</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="571"/>
-        <source>Blocked Contacts</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/accountmodify.ui" line="612"/>
@@ -1260,21 +1250,6 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
 &lt;/qt&gt;</translation>
     </message>
     <message>
-        <location filename="../src/adduser.ui" line="196"/>
-        <source>Group:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/adduser.ui" line="223"/>
-        <source>Nickname (optional):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/adduser.ui" line="230"/>
-        <source>Jabber ID:</source>
-        <translation type="unfinished">Jabber ID:</translation>
-    </message>
-    <message>
         <location filename="../src/adduser.ui" line="317"/>
         <source>&amp;Add</source>
         <translation>&amp;Добавить</translation>
@@ -1507,21 +1482,6 @@ Make sure you enter a fully qualified Jabber ID.</source>
         <location filename="../src/avcall/avcall.cpp" line="534"/>
         <source>Call was rejected or terminated.</source>
         <translation>Вызов был отклонён или прекращён.</translation>
-    </message>
-    <message>
-        <location filename="../src/avcall/avcall.cpp" line="560"/>
-        <source>Call negotiation timed out.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/avcall/avcall.cpp" line="562"/>
-        <source>Unable to establish peer-to-peer connection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/avcall/avcall.cpp" line="564"/>
-        <source>Call negotiation failed.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2439,21 +2399,6 @@ Proceed?</source>
         <translation>&amp;Да</translation>
     </message>
     <message>
-        <location filename="../src/contactview.cpp" line="1556"/>
-        <source>Enter the new group name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1893"/>
-        <source>You cannot set a blank name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1910"/>
-        <source>You cannot set a blank group name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/contactview.cpp" line="1925"/>
         <source>You already have a group with that name.</source>
         <translation>Группа с таким именем уже существует.</translation>
@@ -2479,21 +2424,6 @@ Proceed?</source>
         <translation>Конференции</translation>
     </message>
     <message>
-        <location filename="../src/contactview.cpp" line="930"/>
-        <source>Send Server Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="984"/>
-        <source>&amp;Add a Contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="987"/>
-        <source>New &amp;Blank Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/contactview.cpp" line="1076"/>
         <source>Hide all..</source>
         <translation>Скрыть все..</translation>
@@ -2507,106 +2437,6 @@ Proceed?</source>
         <location filename="../src/contactview.cpp" line="1078"/>
         <source>Leave all..</source>
         <translation>Выйти из всех..</translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1081"/>
-        <source>Send Message to Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1095"/>
-        <source>Send Status to Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1099"/>
-        <source>Resend Authorization to Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1100"/>
-        <source>Request Authorization from Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1101"/>
-        <source>Remove Authorization from Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1244"/>
-        <source>Add/Authorize to Contact List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1283"/>
-        <source>Send Message To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1289"/>
-        <source>Open Chat To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1296"/>
-        <source>Open a Whiteboard To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1311"/>
-        <source>E&amp;xecute Command</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1331"/>
-        <source>Active Chats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1355"/>
-        <source>Send &amp;File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1371"/>
-        <source>Invite To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1424"/>
-        <source>&amp;Create New...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1439"/>
-        <source>Log Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1449"/>
-        <source>Resend Authorization To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1450"/>
-        <source>Rerequest Authorization From</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1451"/>
-        <source>Remove Authorization From</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1481"/>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="1483"/>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1502"/>
@@ -2647,31 +2477,6 @@ Proceed?</source>
 </context>
 <context>
     <name>ContactView</name>
-    <message>
-        <location filename="../src/contactview.cpp" line="2668"/>
-        <source>Choose an Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="2165"/>
-        <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="2173"/>
-        <source>Open &amp;Chat Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="2176"/>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/contactview.cpp" line="2183"/>
-        <source>&amp;Receive Incoming Event</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <location filename="../src/contactview.cpp" line="2668"/>
         <source>All files (*.png *.jpg *.gif)</source>
@@ -3881,31 +3686,6 @@ Reason: %3</source>
         <translation> %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="727"/>
-        <source>Clear Chat Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/groupchatdlg.cpp" line="734"/>
-        <source>Open a Whiteboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/groupchatdlg.cpp" line="734"/>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/groupchatdlg.cpp" line="739"/>
-        <source>Select Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/groupchatdlg.cpp" line="748"/>
-        <source>Enter Command...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/groupchatdlg.cpp" line="927"/>
         <source>
 Reason: %1</source>
@@ -3913,17 +3693,7 @@ Reason: %1</source>
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="993"/>
-        <source>Error: Cannot parse command: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/groupchatdlg.cpp" line="1378"/>
-        <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/groupchatdlg.cpp" line="1406"/>
+        <location filename="../src/groupchatdlg.cpp" line="1399"/>
         <source>%1 has been banned</source>
         <translation>%1 запретили входить в данную конференцию</translation>
     </message>
@@ -3943,17 +3713,7 @@ Reason: %1</source>
         <translation>%1 выгнали из конференции %2</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1422"/>
-        <source>You have been removed from the room by %1 due to an affiliation change</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/groupchatdlg.cpp" line="1430"/>
-        <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/groupchatdlg.cpp" line="1431"/>
+        <location filename="../src/groupchatdlg.cpp" line="1424"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 выгнан, т.к. конференция только для членов</translation>
     </message>
@@ -4270,24 +4030,9 @@ Reason: %1</source>
         <translation>Указание причины</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="348"/>
-        <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/gcuserview.cpp" line="349"/>
-        <source>Open &amp;Chat Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/gcuserview.cpp" line="375"/>
         <source>&amp;Kick</source>
         <translation>&amp;Выгнать (kick)</translation>
-    </message>
-    <message>
-        <location filename="../src/gcuserview.cpp" line="390"/>
-        <source>Change Role</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="396"/>
@@ -4365,16 +4110,6 @@ Reason: %1</source>
         <translation>Добавить</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_general_groupchat.ui" line="156"/>
-        <source>Enable nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_general_groupchat.ui" line="163"/>
-        <source>Nick coloring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="244"/>
         <source>Adds the color to the list</source>
         <translation>Добавить цвет в список</translation>
@@ -4389,11 +4124,6 @@ Reason: %1</source>
         <location filename="../src/options/opt_general_groupchat.ui" line="102"/>
         <source>Adds the new word to the list</source>
         <translation>Добавить слово в список</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_general_groupchat.ui" line="43"/>
-        <source>Word highlighting</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="175"/>
@@ -4909,10 +4639,6 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_emo.ui" line="92"/>
-        <source>&amp;Show details</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Show Details</source>
         <translation>&amp;Показать описание</translation>
     </message>
@@ -4965,13 +4691,6 @@ Are you sure you want to do this?</source>
         <location filename="../src/options/opt_iconset_roster.ui" line="41"/>
         <source>Default roster iconset:</source>
         <translation>Основной набор иконок для ростера:</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_iconset_roster.ui" line="48"/>
-        <location filename="../src/options/opt_iconset_roster.ui" line="180"/>
-        <location filename="../src/options/opt_iconset_roster.ui" line="257"/>
-        <source>&amp;Show details</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="281"/>
@@ -5035,11 +4754,6 @@ Are you sure you want to do this?</source>
 <context>
     <name>IconsetSystem</name>
     <message>
-        <location filename="../src/options/opt_iconset_system.ui" line="42"/>
-        <source>&amp;Show details</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_iconset_system.ui" line="45"/>
         <source>Alt+S</source>
         <translation>Alt+S</translation>
@@ -5071,16 +4785,6 @@ Are you sure you want to do this?</source>
         <location filename="../src/info.ui" line="202"/>
         <source>Alt+C</source>
         <translation>Alt+C</translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="71"/>
-        <source>E-Mail:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="81"/>
-        <source>Birthday:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="154"/>
@@ -5186,71 +4890,6 @@ Are you sure you want to do this?</source>
         <location filename="../src/info.ui" line="538"/>
         <source>psi/reload</source>
         <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="219"/>
-        <source>Full Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="226"/>
-        <source>Phone #:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="233"/>
-        <source>Homepage:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="240"/>
-        <source>Nickname:</source>
-        <translation type="unfinished">Ник:</translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="311"/>
-        <source>Company:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="318"/>
-        <source>Position:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="328"/>
-        <source>Department:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="341"/>
-        <source>Role:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="387"/>
-        <source>Country:</source>
-        <translation type="unfinished">Страна:</translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="394"/>
-        <source>Postal Code:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="410"/>
-        <source>State:</source>
-        <translation type="unfinished">Штат:</translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="417"/>
-        <source>City:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="427"/>
-        <source>Street:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="528"/>
@@ -5506,19 +5145,9 @@ Are you sure you want to discard them?</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="286"/>
-        <source>A&amp;vailable actions:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="307"/>
         <source>psi/arrowLeft</source>
         <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="335"/>
-        <source>Curr&amp;ent actions:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="263"/>
@@ -5708,11 +5337,6 @@ Are you sure you want to discard them?</source>
         <location filename="../src/mucjoin.ui" line="13"/>
         <source>Join Groupchat</source>
         <translation>Войти в конференцию</translation>
-    </message>
-    <message>
-        <location filename="../src/mucjoin.ui" line="52"/>
-        <source>Room information</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/mucjoin.ui" line="84"/>
@@ -5953,17 +5577,7 @@ Reason: %1</source>
         <translation>Инструкции</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="892"/>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/mainwin.cpp" line="904"/>
-        <source>About GStreamer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/mainwin.cpp" line="980"/>
+        <location filename="../src/mainwin.cpp" line="909"/>
         <source>Receive next event</source>
         <translation>&amp;Показать сообщение</translation>
     </message>
@@ -6100,16 +5714,6 @@ Details: %1</source>
         <location filename="../src/options/opt_advanced.ui" line="81"/>
         <source>Automatically copy selected text to clipboard</source>
         <translation>Автокопирование выделенного текста в буфер обмена</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="25"/>
-        <source>Enable &quot;Contact is typing ...&quot; events</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="32"/>
-        <source>Enable &quot;Inactivity&quot; events (end/suspend conversation)</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="116"/>
@@ -6253,104 +5857,7 @@ Details: %1</source>
         <translation>Цвета</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.ui" line="40"/>
-        <source>Online contacts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="47"/>
-        <source>Away contacts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="54"/>
-        <source>DND contacts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="61"/>
-        <source>Offline contacts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_appearance.ui" line="81"/>
-        <source>Contact list background:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="88"/>
-        <source>Status messages:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="137"/>
-        <source>Account heading background:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="144"/>
-        <source>Group heading background:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="322"/>
-        <source>Nick animation foreground:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="329"/>
-        <source>Nick animation background:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="336"/>
-        <source>Nick &quot;To&quot; foreground:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="343"/>
-        <source>Nick &quot;From&quot; foreground:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="350"/>
-        <source>Account heading foreground:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="357"/>
-        <source>Group heading foreground:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="469"/>
-        <source>Chat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="476"/>
-        <source>Message:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="483"/>
-        <location filename="../src/options/opt_appearance.ui" line="493"/>
-        <location filename="../src/options/opt_appearance.ui" line="503"/>
-        <location filename="../src/options/opt_appearance.ui" line="510"/>
-        <source>Choose...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="517"/>
-        <source>Roster:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="524"/>
-        <source>Popup:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Contact list background</source>
         <translation>Фон ростера</translation>
     </message>
@@ -6522,16 +6029,6 @@ Details: %1</source>
         <translation>Окно ростера в виде окна инструментов</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.ui" line="57"/>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_application.ui" line="71"/>
-        <source>Make roster window a &quot;tool window&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_application.ui" line="93"/>
         <source>Data transfer base port:</source>
         <translation>Базовый порт для передачи данных:</translation>
@@ -6697,21 +6194,6 @@ Details: %1</source>
         <location filename="../src/options/opt_chat.ui" line="69"/>
         <source>Use tabbed mode</source>
         <translation>Использовать режим табов</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_chat.ui" line="92"/>
-        <source>for mucs and chats in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_chat.ui" line="97"/>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_chat.ui" line="139"/>
-        <source>Default action</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="180"/>
@@ -7031,19 +6513,9 @@ Details: %1</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/options/opt_shortcuts.ui" line="68"/>
-        <source>Add...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_shortcuts.ui" line="75"/>
         <source>Remove</source>
         <translation>Удалить</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_shortcuts.ui" line="82"/>
-        <source>Edit...</source>
-        <translation type="unfinished">Изменить...</translation>
     </message>
     <message>
         <location filename="../src/options/opt_shortcuts.ui" line="102"/>
@@ -7093,69 +6565,9 @@ Details: %1</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/options/opt_sound.ui" line="36"/>
-        <source>Player:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_sound.ui" line="55"/>
         <source>Play sounds for all messages in groupchat</source>
         <translation>Включить звуки для всех сообщений в конференции</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="97"/>
-        <source>Headline:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="111"/>
-        <source>Receive online status:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="146"/>
-        <source>Receive message:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="195"/>
-        <source>Send message:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="216"/>
-        <source>System message:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="286"/>
-        <source>Incoming file transfer:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="293"/>
-        <source>File transfer complete:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="328"/>
-        <source>Receive next chat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="342"/>
-        <source>Receive first chat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="356"/>
-        <source>Receive offline status:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="389"/>
-        <source>Reset to defaults</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="48"/>
@@ -7450,11 +6862,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../src/options/opt_appearance.cpp" line="72"/>
         <source>Psi&apos;s Appearance</source>
         <translation>Внешний вид Psi</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.cpp" line="72"/>
-        <source>Psi&apos;s appearance</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8150,10 +7557,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../src/options/opt_tree.cpp" line="29"/>
-        <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please note: This editor will change the options directly. Pressing cancel will not revert these changes.</source>
         <translation>Пожалуйста, обратите внимание: этот редактор изменит настройки непосредственно. Нажатие отмены не будет возвращать эти изменения.</translation>
     </message>
@@ -9475,21 +8878,6 @@ Reason: %1.</source>
         <translation>Невидимый</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="195"/>
-        <source>&amp;Add a Contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="218"/>
-        <source>New Blank Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="218"/>
-        <source>New &amp;Blank Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/psiactionlist.cpp" line="219"/>
         <source>Join Groupchat</source>
         <translation>Войти в конференцию</translation>
@@ -9498,56 +8886,6 @@ Reason: %1.</source>
         <location filename="../src/psiactionlist.cpp" line="219"/>
         <source>Join &amp;Groupchat</source>
         <translation>Войти в кон&amp;ференцию</translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="226"/>
-        <source>&amp;Change Profile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="228"/>
-        <source>Play Sounds</source>
-        <translation type="unfinished">Включить звуки</translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="228"/>
-        <source>Play &amp;Sounds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="240"/>
-        <source>Opens the transfer manager dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="263"/>
-        <source>Publish Tune</source>
-        <translation type="unfinished">Показывать песню</translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="263"/>
-        <source>Publish &amp;Tune</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="264"/>
-        <source>Toggles whether the currently playing tune should be published or not</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="278"/>
-        <source>Set Status</source>
-        <translation type="unfinished">Установить статус</translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="279"/>
-        <source>Smaller alternative to the Status button</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="330"/>
-        <source>Show ReadMe file</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="347"/>
@@ -9561,17 +8899,7 @@ Reason: %1.</source>
         <translation>Конференция обсуждения Psi</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="359"/>
-        <source>About GStreamer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="359"/>
-        <source>About &amp;GStreamer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psiactionlist.cpp" line="365"/>
+        <location filename="../src/psiactionlist.cpp" line="361"/>
         <source>Key Storage</source>
         <translation>Ключ защиты памяти</translation>
     </message>
@@ -9912,51 +9240,6 @@ Reason: %1.</source>
         <translation>%1 пишет:</translation>
     </message>
     <message>
-        <location filename="../src/psichatdlg.cpp" line="220"/>
-        <source>Input command...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psichatdlg.cpp" line="309"/>
-        <source>Clear Chat Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psichatdlg.cpp" line="313"/>
-        <source>Select Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psichatdlg.cpp" line="321"/>
-        <source>Send File</source>
-        <translation type="unfinished">Отправить файл</translation>
-    </message>
-    <message>
-        <location filename="../src/psichatdlg.cpp" line="324"/>
-        <source>Toggle Encryption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psichatdlg.cpp" line="327"/>
-        <source>User Info</source>
-        <translation type="unfinished">vCard</translation>
-    </message>
-    <message>
-        <location filename="../src/psichatdlg.cpp" line="330"/>
-        <source>Message History</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psichatdlg.cpp" line="333"/>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psichatdlg.cpp" line="339"/>
-        <source>Chat Toolbar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/psichatdlg.cpp" line="479"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
@@ -9964,11 +9247,7 @@ Reason: %1.</source>
 Примечание: это никак не отразится на истории сообщений</translation>
     </message>
     <message>
-        <location filename="../src/psichatdlg.cpp" line="673"/>
-        <source>Command&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
+        <location filename="../src/psichatdlg.cpp" line="339"/>
         <source>Chat toolbar</source>
         <translation>Панель инструментов чата</translation>
     </message>
@@ -10083,17 +9362,7 @@ Reason: %1.</source>
         <translation>Отключитесь от сервера перед изменением профиля.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1339"/>
-        <source>Call ended</source>
-        <translation type="unfinished">Вызов завершён</translation>
-    </message>
-    <message>
-        <location filename="../src/psicon.cpp" line="1339"/>
-        <source>Other party canceled call.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psicon.cpp" line="1482"/>
+        <location filename="../src/psicon.cpp" line="1477"/>
         <source>Register new account</source>
         <translation>Зарегистрировать новый</translation>
     </message>
@@ -10358,26 +9627,6 @@ Would you like to activate that session now?</source>
         <translation>Действительно удалите все опции, начинающиеся с %1.?</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="159"/>
-        <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
-    </message>
-    <message>
-        <location filename="../src/psioptionseditor.cpp" line="164"/>
-        <source>Edit...</source>
-        <translation type="unfinished">Изменить...</translation>
-    </message>
-    <message>
-        <location filename="../src/psioptionseditor.cpp" line="168"/>
-        <source>Add...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/psioptionseditor.cpp" line="177"/>
-        <source>Open a detached option editor window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/psioptionseditor.cpp" line="261"/>
         <source>Really delete options %1?</source>
         <translation>Действительно удалить опцию %1?</translation>
@@ -10454,10 +9703,6 @@ Would you like to activate that session now?</source>
     <name>QObject</name>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="976"/>
-        <source>Warning: %1 is deprecated and will be removed in the future</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Warning: %1 is depricated and will be removed in the future</source>
         <translation>Предупреждение: команда %1 не рекомендуется и будет удалена в будущем</translation>
     </message>
@@ -10909,41 +10154,6 @@ Would you like to activate that session now?</source>
         <location filename="../src/privacy/privacylistitem.cpp" line="72"/>
         <source>If JID is &apos;%1&apos; then %2 %3</source>
         <translation>Если JID &apos;%1&apos; тогда %2 %3</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="47"/>
-        <source>Deny</source>
-        <translation type="unfinished">Запретить</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="49"/>
-        <source>Allow</source>
-        <translation type="unfinished">Разрешить</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="53"/>
-        <source>All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="56"/>
-        <source>Messages,</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="58"/>
-        <source>Presence-In,</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="60"/>
-        <source>Presence-Out,</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="62"/>
-        <source>Queries,</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/privacy/privacylistitem.cpp" line="78"/>
@@ -11493,11 +10703,6 @@ Would you like to activate that session now?</source>
         <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="22"/>
         <source>&amp;Trust this certificate</source>
         <translation>&amp;Доверять</translation>
-    </message>
-    <message>
-        <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="25"/>
-        <source>&amp;Trust this domain</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/activitycatalog.cpp" line="75"/>
@@ -13081,11 +12286,6 @@ Reason: %1</source>
         <translation>Скрыть таб</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="247"/>
-        <source>Send Tab To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/tabs/tabdlg.cpp" line="279"/>
         <source>Hide Current Tab</source>
         <translation>Скрыть текущий таб</translation>
@@ -13094,21 +12294,6 @@ Reason: %1</source>
         <location filename="../src/tabs/tabdlg.cpp" line="280"/>
         <source>Hide All Tabs</source>
         <translation>Скрыть все табы</translation>
-    </message>
-    <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="285"/>
-        <source>Send Current Tab To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="297"/>
-        <source>Use for New Chats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="300"/>
-        <source>Use for New Mucs</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
